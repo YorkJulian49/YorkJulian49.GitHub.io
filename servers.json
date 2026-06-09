@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "private",
+            "address": "https://side.839797.xyz:2087"
+        }
+    ]
+}
